@@ -1,2 +1,2 @@
-git is a version control system.
+git is a distrebuted version control system.
 you are pig three.
