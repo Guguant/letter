@@ -1,7 +1,6 @@
 ```c
 #I am TOM.
-#you silly.
-
+#you are Rose.
 #include <stdio.h>
 int main(){
   printf("hello, world.\n");
