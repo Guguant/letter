@@ -1,0 +1,69 @@
+[[local|localrc]]
+# Define images to be automatically downloaded during the DevStack built process.
+DOWNLOAD_DEFAULT_IMAGES=False
+IMAGE_URLS="http://download.cirros-cloud.net/0.3.4/cirros-0.3.4-x86_64-disk.img"
+
+#change github to trystack
+GIT_BASE=http://git.trystack.cn
+NOVNC_REPO=http://git.trystack.cn/kanaka/noVNC.git
+SPICE_REPO=http://git.trystack.cn/git/spice/spice-html5.git
+
+# Credentials统一设置登录密码
+DATABASE_PASSWORD=pass
+ADMIN_PASSWORD=pass
+SERVICE_PASSWORD=pass
+SERVICE_TOKEN=pass
+RABBIT_PASSWORD=pass
+#FLAT_INTERFACE=eth0
+
+#主机IP,即访问openstack的IP
+HOST_IP=192.168.16.128
+
+
+# Enabling Neutron (network) Service
+disable_service n-net
+enable_service q-svc
+enable_service q-agt
+enable_service q-dhcp
+enable_service q-l3
+enable_service q-meta
+enable_service q-metering
+enable_service neutron
+
+## Neutron options
+Q_USE_SECGROUP=True
+#floating ip网段
+FLOATING_RANGE="192.168.16.0/24"  
+#内网IP段
+FIXED_RANGE="10.0.0.0/24"
+#可用（可分配）floating IP网段
+Q_FLOATING_ALLOCATION_POOL=start=192.168.16.102,end=192.168.16.110
+#设置外网的网关（VMware自动默认的）
+PUBLIC_NETWORK_GATEWAY="192.168.16.2"
+Q_L3_ENABLED=True
+#外部网卡（上外网的网卡)
+PUBLIC_INTERFACE=eth0
+Q_USE_PROVIDERNET_FOR_PUBLIC=True
+#设置网桥br-ex以及网络映射
+OVS_PHYSICAL_BRIDGE=br-ex
+PUBLIC_BRIDGE=br-ex
+OVS_BRIDGE_MAPPINGS=public:br-ex
+
+# VLAN configuration.
+Q_PLUGIN=ml2
+ENABLE_TENANT_VLANS=True
+
+# Work offline
+#OFFLINE=True
+# Reclone each time
+RECLONE=yes
+
+# Logging
+# -------
+# By default ``stack.sh`` output only goes to the terminal where it runs. It can
+# be configured to additionally log to a file by setting ``LOGFILE`` to the full
+# path of the destination log file. A timestamp will be appended to the given name.
+LOGFILE=/opt/stack/logs/stack.sh.log
+VERBOSE=True
+LOG_COLOR=True
+SCREEN_LOGDIR=/opt/stack/logs
