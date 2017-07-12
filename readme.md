@@ -10,3 +10,5 @@ int main(){
 # AnyThingHouse
 * [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [logo](http://shields.io/)
+
+[markdown](https://daringfireball.net/projects/markdown/syntax) | [中文](http://markdown.tw/)
