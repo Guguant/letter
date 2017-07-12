@@ -8,5 +8,5 @@ int main(){
 }
 ```
 # AnyThingHouse
-[emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
-[logo](http://shields.io/)
+* [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+* [logo](http://shields.io/)
