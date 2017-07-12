@@ -1,4 +1,7 @@
 # AnyThingHouse 万事屋
+
+![an.ai](https://github.com/Guguant/Tec/blob/master/tec.png)
+
 This is a secret garden about anythings of internet and world. 
 ## markdown
 * [markdown](https://daringfireball.net/projects/markdown/syntax) | [中文](http://markdown.tw/) | [readme.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
