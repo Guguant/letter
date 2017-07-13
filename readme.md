@@ -25,7 +25,6 @@ This is a secret garden about anythings of internet and world.
 ## arts
 * [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [autodraw](https://www.autodraw.com/)
-* [rafael-varona](http://www.rafael-varona.com/), 雨中曲
 
 ## 手工印相
 * [Christina Z. anderson](http://www.christinazanderson.com/)
