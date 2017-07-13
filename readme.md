@@ -6,6 +6,7 @@ This is a secret garden about anythings of internet and world.
 ## markdown
 * [markdown](https://daringfireball.net/projects/markdown/syntax) | [中文](http://markdown.tw/) | [readme.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [logo](http://shields.io/)
+* [color](http://htmlcolorcodes.com/)
 
 ## blog
 * [WangYin](http://www.yinwang.org/)
@@ -19,13 +20,12 @@ This is a secret garden about anythings of internet and world.
 
 * [書格](https://shuge.org/)
 * [香蕉魚書店](http://a-perfect-book-for-bananafish.com/)
-
-
 * [付維亮的博客](http://neurocouple.com/)
 
 ## arts
 * [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [autodraw](https://www.autodraw.com/)
+* [rafael-varona](http://www.rafael-varona.com/), 雨中曲
 
 ## 手工印相
 * [Christina Z. anderson](http://www.christinazanderson.com/)
