@@ -8,11 +8,20 @@ This is a secret garden about anythings of internet and world.
 * [logo](http://shields.io/)
 
 ## blog
+* [WangYin](http://www.yinwang.org/)
 * [陈硕-左耳朵耗子](http://www.coolshell.cn/)
 * [byvoid](https://www.byvoid.com/)
 * [阮一峰](http://www.ruanyifeng.com/blog/)
 * [云风](http://blog.yufeng.info/)
 * [邹欣](http://www.cnblogs.com/xinz/)
+
+## 書
+
+* [書格](https://shuge.org/)
+* [香蕉魚書店](http://a-perfect-book-for-bananafish.com/)
+
+
+* [付維亮的博客](http://neurocouple.com/)
 
 ## arts
 * [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
