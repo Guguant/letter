@@ -15,6 +15,7 @@ This is a secret garden about anythings of internet and world.
 * [阮一峰](http://www.ruanyifeng.com/blog/)
 * [云风](http://blog.yufeng.info/)
 * [邹欣](http://www.cnblogs.com/xinz/)
+* [湾区日报](https://wanqu.co/)
 
 ## 書
 
