@@ -27,6 +27,8 @@ This is a secret garden about anythings of internet and world.
 * [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [autodraw](https://www.autodraw.com/)
 * [color](http://htmlcolorcodes.com/)
+* [icon](https://www.shareicon.net/)
+
 ## 手工印相
 * [Christina Z. anderson](http://www.christinazanderson.com/)
 * [sandy](http://www.sandykingphotography.com/)
