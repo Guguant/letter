@@ -26,7 +26,10 @@ This is a secret garden about anythings of internet and world.
 ## arts
 * [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
 * [autodraw](https://www.autodraw.com/)
+
+## Web
 * [color](http://htmlcolorcodes.com/)
+* [WEBSAFECOLORSWEB](http://www.bootcss.com/p/websafecolors/)
 * [icon](https://www.shareicon.net/)
 
 ## 手工印相
