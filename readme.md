@@ -12,6 +12,7 @@ This is a secret garden about anythings of internet and world.
 * [阮一峰](http://www.ruanyifeng.com/blog/)
 * [云风](http://blog.yufeng.info/)
 * [湾区日报](https://wanqu.co/)
+* [Dong](http://www.dearzd.com/DBlog/)
 
 ## 書店
 * [書格](https://shuge.org/)
