@@ -1,10 +1,7 @@
-# 文藝
-- 第36個故事
-- 最遙遠的距離
-- homework
+- [x] 第36個故事
+- [x] The Secret Service (2014) 
+- [x] the shape of voice
 
-# 黑色幽默
-- kingsman1
-
-# 動漫
-- the shape of voice
+TODO
+- [ ] 最遙遠的距離
+- [ ] homework
