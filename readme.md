@@ -9,10 +9,10 @@ This is a secret garden about anything of internet and world.
 ## blog
 * [WangYin](http://www.yinwang.org/)
 * [byvoid](https://www.byvoid.com/)
-* [阮一峰](http://www.ruanyifeng.com/blog/)
+* [Ruan Yifeng](http://www.ruanyifeng.com/blog/)
 * [云风](http://blog.yufeng.info/)
 * [湾区日报](https://wanqu.co/)
-* [Dong](http://www.dearzd.com/DBlog/)
+* [咚门](http://www.dearzd.com/DBlog/)
 
 ## 書店
 * [書格](https://shuge.org/)
