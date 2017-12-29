@@ -13,6 +13,7 @@ This is a secret garden about anything of internet and world.
 * [云风](http://blog.yufeng.info/)
 * [湾区日报](https://wanqu.co/)
 * [咚门](http://www.dearzd.com/DBlog/)
+* [lepture](http://lepture.com/)
 
 ## 書店
 * [書格](https://shuge.org/)
