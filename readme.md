@@ -10,6 +10,4 @@ This is a secret garden about anything of internet and world.
 * [byvoid](https://www.byvoid.com/)
 * [Ruan Yifeng](http://www.ruanyifeng.com/blog/)
 * [咚门](http://www.dearzd.com/DBlog/)
-* [書格](https://shuge.org/)
-* [香蕉魚書店](http://a-perfect-book-for-bananafish.com/)
 * [The Spruce](https://www.thespruce.com/) | Make you best home
