@@ -13,3 +13,6 @@ I enjoy these bloger, their life attracts me.
 * [Ruan Yifeng](http://www.ruanyifeng.com/blog/)
 * [咚门](http://www.dearzd.com/DBlog/)
 * [The Spruce](https://www.thespruce.com/) | Make you best home
+
+# BEGIN AGAIN.
+You're only as strong as your next move.
