@@ -6,7 +6,7 @@ AZ还有另外一层浪漫的含义，关于一段感情。
 未填词
 # a 救赎之旅 :four_leaf_clover:
 * 16/5 2018  下定决心，我的操作系统之旅。
-* 15/5 2018  lil peed音乐评论下，down down down.
+* 15/5 2018  lil peep音乐评论下，down down down.
 * 14/5 2018  forget what i have done.
 * 13/5 2018  QVQ 正在播的一首歌，《有没有人告诉你》。
 * 12/5 2018  熠、阮(?)、海、璋、鹏，一起喝了酒，醉了。
