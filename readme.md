@@ -1,4 +1,4 @@
-# Tec Letter
+# Tec Letter 分享一切有趣的事物
 ![an.ai](https://github.com/Guguant/Tec/blob/master/tec.png)
 
 This is a secret garden about anything of internet and world. You are a lucky dog, friends. Tec comes to our life, and improve it. As far as I am concerned, I enjoy outdoor activities with my friends.
