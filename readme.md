@@ -1,26 +1,19 @@
 # About Me
-Hello, my name is Sun Yiming, You can call me AndyZ. I was born in 1996s.
-
-I am an IT developer focusing on computer operating system.
-
-Now I am employed by Huawei.com as an OS engineer.
-
-In spare time, I love skateboarding, traveling, playing blues Harp, and Popping.
-
+Hello, my name is Sun Yiming, You can call me AndyZ. I was born in 1996s.  
+I am an IT developer focusing on computer operating system.  
+Now I am employed by Huawei.com as an OS engineer.  
+In spare time, I love skateboarding, traveling, playing blues Harp, and Popping.  
 I am in Hangzhou, China. If you travel here, I can go with you.
 
 # Studio
-
 - 2014.09-2015.03 **朝码计算机工作室**
-
 - 2016.11-2017.04 **Team Go Lazy**
-
-- 2018.7-Now **2012 Lab** ![zhao](https://github.com/Guguant/letter/blob/master/team/ZhaoStudio.png)
-
-  ![golazy](https://github.com/Guguant/letter/blob/master/team/golazy.bmp)![anai](https://github.com/Guguant/letter/blob/master/team/anai.png)
+- 2018.7-Now **2012 Lab**  
+![zhao](https://github.com/Guguant/letter/blob/master/team/ZhaoStudio.png) | 
+![golazy](https://github.com/Guguant/letter/blob/master/team/golazy.bmp) | 
+![anai](https://github.com/Guguant/letter/blob/master/team/anai.png)
 
 # Side Project
-
 | Name                                                         | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [anaian-particle-system](https://github.com/Guguant/anaian-particle-system) | OpenGL粒子系统                                               |
