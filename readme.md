@@ -8,7 +8,10 @@ This is a secret garden about anything of internet and world. You are a lucky do
 * 2014.09-2015.03 **朝码计算机工作室**
 * 2016.11-2017.04 **Team Go Lazy**
 * 2018.7-Now **2012 Lab**
-![zhao](https://github.com/Guguant/letter/blob/master/team/Zhao.PNG)![golazy](https://github.com/Guguant/letter/blob/master/team/golazy.bmp)
+
+![zhao](https://github.com/Guguant/letter/blob/master/team/Zhao.PNG)
+![golazy](https://github.com/Guguant/letter/blob/master/team/golazy.bmp)
+![anai](https://github.com/Guguant/letter/blob/master/team/anai.png)
 
 ## markdown
 
