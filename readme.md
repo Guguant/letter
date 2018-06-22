@@ -3,7 +3,16 @@
 
 This is a secret garden about anything of internet and world. You are a lucky dog, friends. Tec comes to our life, and improve it. As far as I am concerned, I enjoy outdoor activities with my friends.
 
+# My Dear Team
+
+* 2014.09-2015.03 **朝码计算机工作室**
+* 2016.11-2017.04 **Team Go Lazy**
+* 2018.7-Now **2012 Lab**
+
+
+
 ## markdown
+
 What is the Markdown? How to use it to edit articles? Wow see here.
 * [markdown](https://daringfireball.net/projects/markdown/syntax) | [中文](http://markdown.tw/) | [readme.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [logo](http://shields.io/) | [emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
@@ -16,5 +25,6 @@ I enjoy these bloger, their life attracts me.
 ## ML
 * [Mnist database](http://yann.lecun.com/exdb/mnist/)
 
-# BEGIN AGAIN.
-You're only as strong as your next move.
+# Todo
+- [ ] **kitty-book** A book of game
+- [ ] **Guide** A guide to file and directory (bash)
