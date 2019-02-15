@@ -24,7 +24,6 @@ I am in Hangzhou, China. If you travel here, I can go with you.
 | [HomeMonitor](https://github.com/Guguant/HomeMonitor)        | PC's camera is used as a Home Guard. PC camera collect pictures and send them to your another Host using TCP protocol. |
 | [kitty-book](https://github.com/Guguant/kitty-book)          | A little game book. 收集世界各地的儿时游戏.                  |
 | [letter](https://github.com/Guguant/letter)                  | Secret Garden. 秘密花园.                                     |
-| [magic-sticker](https://github.com/Guguant/magic-sticker)    | 正在做的项目...                                              |
 | [paper](https://github.com/Guguant/paper)                    | 论文笔记与摘抄.                                              |
 | [SmartLockManagement](https://github.com/Guguant/SmartLockManagement) | A management platform for Smart Lock Devices, based on mongoose. |
 
