@@ -1,4 +1,5 @@
 # 新的心跳 :smile_cat:
+* 17/04 2019 和许志华老师聊天
 * 30/03 2019 Aliya shared a moment “感谢相伴:pig:”
 * 28/03 2019 Tanya与Lu1合作了一首新歌 《Just say so》
 * 26/03 2019 喜欢跑步
