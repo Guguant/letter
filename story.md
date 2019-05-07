@@ -1,4 +1,5 @@
 # 新的心跳 :smile_cat:
+* 07/05 2019 Try our luck. Code is so hard.
 * 25/04 2019 感性智慧的训练，两人“对画”，寻找平衡感
 * 17/04 2019 和许志华老师聊天
 * 30/03 2019 Aliya shared a moment “感谢相伴:pig:”
