@@ -23,7 +23,7 @@ I am in Hangzhou, China. If you travel here, I can go with you.
 | [Guguant.github.io](https://github.com/Guguant/Guguant.github.io) | My blog. 个人博客.                                           |
 | [HomeMonitor](https://github.com/Guguant/HomeMonitor)        | PC's camera is used as a Home Guard. PC camera collect pictures and send them to your another Host using TCP protocol. |
 | [kitty-book](https://github.com/Guguant/kitty-book)          | A little game book. 收集世界各地的儿时游戏.                  |
-| [letter](https://github.com/Guguant/letter)                  | Secret Garden. 秘密花园.                                     |
+| [sea](https://github.com/Guguant/letter)                  | Secret Garden. 秘密花园.                                     |
 | [paper](https://github.com/Guguant/paper)                    | 论文笔记与摘抄.                                              |
 | [SmartLockManagement](https://github.com/Guguant/SmartLockManagement) | A management platform for Smart Lock Devices, based on mongoose. |
 
