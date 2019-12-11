@@ -1,4 +1,6 @@
 # 新的心跳 :smile_cat:
+* 11/12 2019 [out of the blue](http://yuezhu.org/out-of-the-blue/)
+  > 每年十二月份都会想起大一的平安夜从新街口走回宿舍的自己，跟美好相距甚远，但永远值得回忆。
 * 09/12 2019 爲什麼人生充滿了別離 ~ 是麼 Free-D
 * 20/11 2019 早睡早起 太重要了 & Kernel plans are going on ... 
 * 09/11 2019 婷婷去北京了，我好难过...
