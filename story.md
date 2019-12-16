@@ -1,4 +1,5 @@
 # 新的心跳 :smile_cat:
+* 16/12 2019 婷婷說，友情是同甘共苦。
 * 15/12 2019 「世界上最治愈的东西都是咸的，泪水、汗水和海水。」
 * 14/12 2019 cheer 20 漫漫长夜 HANGZHOU，最后一首歌是 After 17，关于吉他与感动的记忆。
 * 11/12 2019 [out of the blue](http://yuezhu.org/out-of-the-blue/)
