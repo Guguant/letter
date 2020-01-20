@@ -1,4 +1,5 @@
 # 新的心跳 :smile_cat:
+* 20/01 2020 *Ne sympathisez pas avec vous-même*
 * 19/01 2020 不要同情自己 -- *Norwegian Wood*
 * 13/01 2020 午睡时，做了一个小梦。小时候，在家里，和爷爷奶奶住一个房间。农历新年，他们在商量着，年夜饭做些什么菜，和亲人分享呢？
 * 09/01 2020 [https://byte.coffee/52](https://byte.coffee/52)
