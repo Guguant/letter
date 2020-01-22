@@ -9,3 +9,4 @@
 
 # life
 - [The Spruce](https://www.thespruce.com/) | Make you best home
+- [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
