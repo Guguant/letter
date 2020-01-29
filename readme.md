@@ -1,15 +1,11 @@
 # Sea
 
-The first that I have seen the sea in Sanmen, Taizhou, Zhejiang province, I fall in love with it.
+The first when I have seen the Mushao sea in Sanmen, Taizhou, Zhejiang province, I fell that the place seems to be my homedown.
 
-## Sanmen Station
-
-![Sanmen Station](https://github.com/Guguant/sea/blob/master/best/sanmen.JPG)
-
-## Mushao Sea
-
-![Mushao Sea](https://github.com/Guguant/sea/blob/master/best/sea_mushao.JPG)
-
-## A book
+## *poetry* ?
 
 [《The Bird And The Fish》](https://sun-yiming.gitbook.io/bird-and-fish/)
+
+## Mushao sea
+
+![Mushao Sea](https://github.com/Guguant/sea/blob/master/best/sea_mushao.JPG
