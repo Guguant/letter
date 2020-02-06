@@ -1,7 +1,7 @@
 # Sea
 
-The first when I have seen the Mushao sea in Sanmen, Taizhou, Zhejiang province, I felt that the place seems to be my homedown.
+The first when I have seen the Mushao Sea in Sanmen, Taizhou, Zhejiang province, I felt that the place seems to be my hometown.
 
-## Mushao sea
+## The Mushao Sea
 
-![Mushao-Sea](https://github.com/Guguant/sea/blob/master/best/sea_mushao.JPG)
+![mushao_sea](mushao_sea.JPG)
