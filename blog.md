@@ -12,3 +12,4 @@
 
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
+* [metaphox](http://blog.metaphox.com/) | German
