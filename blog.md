@@ -4,6 +4,7 @@
 
 - [byvoid](https://www.byvoid.com/) | Beyond the Void
 - [Changkun Ou](https://changkun.us/) | Science and art, life in between
+- [metaphox](http://blog.metaphox.com/) | Nunc scio, quid sit Amor
 - [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
 - [The Spruce](https://www.thespruce.com/) | Make you best home
 - [shredderyin](https://docs.huihoo.com/homepage/shredderyin/index.html)
