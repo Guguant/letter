@@ -4,6 +4,11 @@
 
 ## 2020
 
+* 2020-03-05 University
+  * TUM
+  * KIT
+  * UST
+  * Netherlands
 * 2020-03-04 再忙，也要跟你講句咖啡話☕ -- 来自蛋堡
 * 2020-02-24 一个漫画网站 [abstruse goose](https://abstrusegoose.com/)
 * 2020-02-21 一鸣真鲜奶吧广告词：陪伴是最长情的告白，“芋”你相随，“薯”你最棒。
