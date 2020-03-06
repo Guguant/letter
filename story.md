@@ -4,6 +4,7 @@
 
 ## 2020
 
+* 2020-03-06 Lisp and Go, start from scratch.
 * 2020-03-05 University
   * TUM
   * KIT
