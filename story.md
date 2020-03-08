@@ -4,6 +4,8 @@
 
 ## 2020
 
+* 2020-03-09 You never know what's comming for you.
+* 2020-03-08 但愿我和你 是一只唱不完的歌 要爱就爱个够吧
 * 2020-03-06
   * Lisp and Go, start from scratch.
   * 噗 我拿时间换了什么？
