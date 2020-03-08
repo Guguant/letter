@@ -4,4 +4,4 @@ The first when I have seen the Mushao Sea in Sanmen, Taizhou, Zhejiang province,
 
 ## The Mushao Sea
 
-![mushao_sea](mushao_sea.JPG)
+![mushao_sea](image/mushao_sea.JPG)
