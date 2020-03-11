@@ -14,6 +14,8 @@
 
 - [Changkun Ou](https://changkun.us/) | Science and art, life in between
 - [metaphox](http://blog.metaphox.com/) | Nunc scio, quid sit Amor | German
+- [games-cn.org/jobs/](http://games-cn.org/jobs/)
+- [http://www4.comp.polyu.edu.hk/~pinli/](http://www4.comp.polyu.edu.hk/~pinli/)
 
 ## work
 
