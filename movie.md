@@ -2,6 +2,10 @@
 
 like and seen.
 
+## want to see
+
+- [ ] Chef's Table
+
 ## best
 
 - [x] 第36个故事
