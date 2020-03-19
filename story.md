@@ -5,7 +5,7 @@
 ## 2020
 
 * 2020-03-19 音乐
-  * Talor Swift 的音乐超好听
+  * Taylor Swift 的音乐超好听
   * 蛋堡新專輯《家常音樂》，好酷
 * 2020-03-13 保持对知识的渴望
 * 2020-03-09 You never know what's comming for you.
