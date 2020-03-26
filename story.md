@@ -4,6 +4,7 @@
 
 ## 2020
 
+* 2020-02-26 If you can't go outside, go inside.
 * 2020-03-19 音乐
   * Taylor Swift 的音乐超好听
   * 蛋堡新專輯《家常音樂》，好酷
