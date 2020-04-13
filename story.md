@@ -4,7 +4,8 @@
 
 ## 2020
 
-* 2020-04-09 在Coldplay的歌声里 什么都不要想
+* 2020-04-13 to be a hiking PRO.
+* 2020-04-09 在Coldplay的音乐里 什么都不要想
 * 2020-04-08 一个人要怎样度过他/她的一生
 * 2020-03-26 If you can't go outside, go inside.
 * 2020-03-19 音乐
