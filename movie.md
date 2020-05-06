@@ -5,7 +5,8 @@ like and seen.
 ## want to see
 
 - [ ] Chef's Table
-- [ ] Run with the Wind(https://en.wikipedia.org/wiki/Run_with_the_Wind)
+- [ ] Run with the Wind(https://en.wikipedia.org/wiki/Run_with_the_Wind)，强风吹拂
+- [ ] 柯南
 
 ## best
 
@@ -15,6 +16,7 @@ like and seen.
 
 ## 2020
 
+- [x] 2020-04-25 乔乔的异想世界
 - [x] 2020-03-08 风之谷 宫崎骏
 - [x] 2020-03-07 幽灵公主 宫崎骏
 - [x] 2020-02-21 菊次郎的夏天 北野武
