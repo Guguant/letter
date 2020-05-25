@@ -4,6 +4,7 @@
 
 ## 2020
 
+* 2020-05-25 失败者的飞翔
 * 2020-05-21 做事情要果断啦；什么是热爱哩？
 * 2020-05-20 这是什么节日呢？
 * 2020-05-16 夏日行走山间 （[https://sun-yiming.gitbook.io/sanmen-sea/pa-shan/20200516-liu-he-ta-long-jing](https://sun-yiming.gitbook.io/sanmen-sea/pa-shan/20200516-liu-he-ta-long-jing)）
