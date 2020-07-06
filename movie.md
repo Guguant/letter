@@ -5,14 +5,24 @@ like and seen.
 ## want to see
 
 - [ ] Chef's Table
-- [ ] Run with the Wind(https://en.wikipedia.org/wiki/Run_with_the_Wind)，强风吹拂
 - [ ] 柯南
+
+## 阿丛超推荐
+
+- [ ] 爱 · 死亡 · 机器人
+- [ ] 鲜花大战
+- [ ] 红辣椒
+- [ ] 崩溃
+- [ ] 今敏
+- [ ] 未麻的房间
+- [ ] 怪兽在巴黎
 
 ## best
 
 - [x] 第36个故事
 - [x] 重庆森林
 - [x] 天使爱美丽 Amélie
+- [x] Run with the Wind(https://en.wikipedia.org/wiki/Run_with_the_Wind)，强风吹拂
 
 ## 2020
 
