@@ -4,6 +4,7 @@
 
 ## 2020
 
+* 2020-09-16 爱自己是终身浪漫的开始
 * 2020-09-11 雨天
 * 2020-09-10 今天教师节。换了一个壁纸 Paul Cézanne - The Bay of Marseilles, Seen from L'Estaque ;)
 * 2020-09-09 「有梦想谁都了不起」。早上在食堂不远处，碰到lizhijin了。
