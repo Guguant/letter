@@ -6,6 +6,7 @@ like and seen.
 
 - [ ] Chef's Table
 - [ ] 柯南
+- [ ] 天气之子
 
 ## 阿丛超推荐
 
