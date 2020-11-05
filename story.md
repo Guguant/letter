@@ -4,6 +4,8 @@
 
 ## 2020
 
+* 2020-11-05 less to more, to less, to more
+* 2020-11-04 The Cure: Trilogy
 * 2020-10-31 璐姐去北京啦
 * 2020-10-30 collapse
 * 2020-10-15 Lumos Flower
