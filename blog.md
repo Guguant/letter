@@ -11,6 +11,7 @@
 - [yuezhu.org](https://yuezhu.org/) | Live in days
 - [咚门](http://www.dearzd.com/DBlog/) | 安静的下午，浓郁的树荫，稀疏的阳光，一人，一书
 - [孔令贤](https://lingxiankong.github.io/index.html) | openstack 技术改变世界
+- [李凡希的Blog](https://www.freemindworld.com/blog/) | Free as in Freedom
 
 ## study
 
