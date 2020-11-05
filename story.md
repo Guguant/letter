@@ -4,7 +4,7 @@
 
 ## 2020
 
-* 2020-11-05 less to more, to less, to more
+* 2020-11-05 加班到好晚，收到同事espace问候，真的好开心，暖~~ kangyi同学
 * 2020-11-04 The Cure: Trilogy
 * 2020-10-31 璐姐去北京啦
 * 2020-10-30 collapse
