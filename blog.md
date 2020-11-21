@@ -13,6 +13,10 @@
 - [孔令贤](https://lingxiankong.github.io/index.html) | openstack 技术改变世界
 - [李凡希的Blog](https://www.freemindworld.com/blog/) | Free as in Freedom
 
+## music
+
+- [tommyemmanuel.rocks/fingerstyle](https://tommyemmanuel.rocks/fingerstyle/) | A teljesség igénye nélkül tevékenykedünk! 🙂
+
 ## study
 
 - [Changkun Ou](https://changkun.us/) | Science and art, life in between
