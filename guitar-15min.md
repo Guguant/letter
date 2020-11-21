@@ -2,8 +2,11 @@
 
 ## learning
 
-- [ ] 草东没有派对 大风吹
+- [ ] 大风吹, 草东没有派对 
 - [ ] 菊次郎的夏天
+- [ ] Romance Summer, 告五人
+- [ ] 你离开了南京 从此没有人和我说话
+- [ ] it is never too late, tommy emmanuel
 
 # everyday
 
@@ -16,7 +19,3 @@
 * 2020-10-29 忘记了
 * 2020-10-28 拍扫弦
 * 2020-10-27 扫弦 Em
-
-## reference
-
-https://wenguitar01.co/
