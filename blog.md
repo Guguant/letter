@@ -20,11 +20,12 @@
 
 ## study
 
-- [tms-interview-index](https://blogcn.acacess.com/tms-interview-index) | ACACESS LAB
-- [Changkun Ou](https://changkun.us/) | Science and art, life in between
-- [metaphox](http://blog.metaphox.com/) | Nunc scio, quid sit Amor | German
+- [changkun Ou](https://changkun.us/) | Science and art, life in between
 - [games-cn.org/jobs/](http://games-cn.org/jobs/)
 - [http://www4.comp.polyu.edu.hk/~pinli/](http://www4.comp.polyu.edu.hk/~pinli/)
+- [metaphox](http://blog.metaphox.com/) | Nunc scio, quid sit Amor | German
+- [staffeng stories](https://staffeng.com/stories) | Folks who have shared their stories of reaching Staff-plus engineer roles
+- [tms-interview-index](https://blogcn.acacess.com/tms-interview-index) | ACACESS LAB
 
 ## work
 
