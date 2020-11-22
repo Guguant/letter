@@ -5,6 +5,7 @@ like and seen.
 ## want to see
 
 - [ ] Chef's Table
+- [ ] Stardust
 - [ ] 柯南
 - [ ] 天气之子
 
