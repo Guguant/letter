@@ -20,7 +20,6 @@
 
 ## study
 
-- [Austin Z. Henley](http://web.eecs.utk.edu/~azh/) | I design and build more usable software engineering tools by applying human-computer interaction methodologies with the goal of increasing developer productivity.
 - [changkun Ou](https://changkun.us/) | Science and art, life in between
 - [games-cn.org/jobs/](http://games-cn.org/jobs/)
 - [http://www4.comp.polyu.edu.hk/~pinli/](http://www4.comp.polyu.edu.hk/~pinli/)
@@ -35,7 +34,7 @@
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
 - [Kevin Beason](http://kevinbeason.com/) | graphics programmer
-
-* hci
+- hci
+  - [Austin Z. Henley](http://web.eecs.utk.edu/~azh/)
   - [Jacek Gwizdka](https://jacekg.ischool.utexas.edu/) |  How to pronounce my names?
   - [SUNYOUNG KIM](http://www.sunyoungkim.org/) | a HCI researcher
