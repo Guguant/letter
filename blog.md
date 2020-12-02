@@ -20,6 +20,7 @@
 
 ## study
 
+- [Austin Z. Henley](http://web.eecs.utk.edu/~azh/) | I design and build more usable software engineering tools by applying human-computer interaction methodologies with the goal of increasing developer productivity.
 - [changkun Ou](https://changkun.us/) | Science and art, life in between
 - [games-cn.org/jobs/](http://games-cn.org/jobs/)
 - [http://www4.comp.polyu.edu.hk/~pinli/](http://www4.comp.polyu.edu.hk/~pinli/)
@@ -35,6 +36,6 @@
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
 - [Kevin Beason](http://kevinbeason.com/) | graphics programmer
 
-hci
-- [Jacek Gwizdka](https://jacekg.ischool.utexas.edu/) |  How to pronounce my names?
-- [SUNYOUNG KIM](http://www.sunyoungkim.org/) | a HCI researcher
+* hci
+  - [Jacek Gwizdka](https://jacekg.ischool.utexas.edu/) |  How to pronounce my names?
+  - [SUNYOUNG KIM](http://www.sunyoungkim.org/) | a HCI researcher
