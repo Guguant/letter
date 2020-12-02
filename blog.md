@@ -31,6 +31,7 @@
 
 - [Alfie Kohn](https://www.alfiekohn.org/) | Alfie Kohn writes and speaks widely on human behavior, education, and parenting.
 - [Aras Pranckevičius](http://aras-p.info/) | I can read and write computer code.
+- [Don Norman](https://jnd.org/about/) | design
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
 - [Kevin Beason](http://kevinbeason.com/) | graphics programmer
