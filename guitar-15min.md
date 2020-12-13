@@ -1,22 +1,25 @@
-# guitar 15min
+# guitar
 
-## learning
+Everyday life.
 
-- [ ] 大风吹, 草东没有派对 
-- [ ] 菊次郎的夏天
-- [ ] 你离开了南京 从此没有人和我说话
+## tabs which want to learn
+
+- [ ] 菊次郎的夏天 -  Joe Hisaishi
 - [ ] 杀死那个石家庄人 - 万能青年旅店
-- [ ] it is never too late, tommy emmanuel
-- [ ] Summer Romance, 告五人
+- [ ] it is never too late (fingerstyle) - tommy emmanuel
 
-# everyday
+## tabs which learning
 
-* 2020-11-04 节拍器
-* 2020-11-03 大风吹
-* 2020-11-02 picking + 扫弦
-* 2020-11-01 picking + 节奏
-* 2020-10-31 《宝贝》C G/B Fmaj7 G《关于我爱你》
-* 2020-10-30 拍弦训练
-* 2020-10-29 忘记了
-* 2020-10-28 拍扫弦
-* 2020-10-27 扫弦 Em
+| date       | song                            | author            |
+| ---------- | ------------------------------- | ----------------- |
+| 2020-10-27 | 童年                            | 罗大佑            |
+| 2020-11-03 | 大风吹                          | 草东没有派对      |
+| 2020-11-06 | Summer Romance                  | Accusefive        |
+| 2020-11-08 | 向前走                          | 蔡健雅            |
+| 2020-11-12 | tree tigers                     | Frère Jacques     |
+| 2020-11-21 | 你离开了南京 从此没有人和我说话 | 南京              |
+| 2020-11-23 | 小星星                          | Mozart            |
+| 2020-11-28 | River                           | Joni Mitchll      |
+| 2020-12-11 | The Sound of Silence            | Simon & Garfunkel |
+| 2020-12-13 | White Charismas                 | Bing Crosby       |
+
