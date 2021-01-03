@@ -10,6 +10,7 @@
 - [shredderyin](https://docs.huihoo.com/homepage/shredderyin/index.html) | Yin
 - [steve losh](https://stevelosh.com/) | I'm a photographer, programmer, dancer, and bassist currently living in Rochester, New York.
 - [Yihan|文字园艺](https://yihanxu.github.io/) | 一枚传播学博士僧的生活及思考
+- [yihui](https://yihui.org/) | This blog is about statistics, R, graphics, life, and fun, with a special focus on R.
 - [yuezhu.org](https://yuezhu.org/) | Live in days
 - [咚门](http://www.dearzd.com/DBlog/) | 安静的下午，浓郁的树荫，稀疏的阳光，一人，一书
 - [孔令贤](https://lingxiankong.github.io/index.html) | openstack 技术改变世界
