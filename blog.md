@@ -3,6 +3,7 @@
 ## life
 
 - [byvoid](https://www.byvoid.com/) | Beyond the Void
+- [curious creature](https://www.curious-creature.com/) | I share the photos I take whenever I can find time to escape the daily routine. 
 - [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
 - [The Spruce](https://www.thespruce.com/) | Make you best home
 - [reuixiy](https://io-oi.me/life/) | 一休儿
