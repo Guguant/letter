@@ -4,11 +4,12 @@
 
 - [byvoid](https://www.byvoid.com/) | Beyond the Void
 - [curious creature](https://www.curious-creature.com/) | I share the photos I take whenever I can find time to escape the daily routine. 
+- [liqi.io](https://liqi.io/) | 创造者和他们的工具
 - [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
-- [The Spruce](https://www.thespruce.com/) | Make you best home
 - [reuixiy](https://io-oi.me/life/) | 一休儿
 - [shredderyin](https://docs.huihoo.com/homepage/shredderyin/index.html) | Yin
 - [steve losh](https://stevelosh.com/) | I'm a photographer, programmer, dancer, and bassist currently living in Rochester, New York.
+- [The Spruce](https://www.thespruce.com/) | Make you best home
 - [Yihan|文字园艺](https://yihanxu.github.io/) | 一枚传播学博士僧的生活及思考
 - [yihui](https://yihui.org/) | This blog is about statistics, R, graphics, life, and fun, with a special focus on R.
 - [yuezhu.org](https://yuezhu.org/) | Live in days
