@@ -17,6 +17,7 @@
 - [咚门](http://www.dearzd.com/DBlog/) | 安静的下午，浓郁的树荫，稀疏的阳光，一人，一书
 - [孔令贤](https://lingxiankong.github.io/index.html) | openstack 技术改变世界
 - [李凡希的Blog](https://www.freemindworld.com/blog/) | Free as in Freedom
+- [落园](http://www.loyhome.com/) | Life is better when SHARED!
 - [云风](https://blog.codingnow.com/) | 思绪来得快去得也快，偶尔会在这里停留
 
 ## music
