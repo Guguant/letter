@@ -3,6 +3,7 @@
 ## life
 
 - [byvoid](https://www.byvoid.com/) | Beyond the Void
+- [cos](https://d.cosx.org/) | 统计之都
 - [curious creature](https://www.curious-creature.com/) | I share the photos I take whenever I can find time to escape the daily routine. 
 - [liqi.io](https://liqi.io/) | 创造者和他们的工具
 - [Miao Yu](https://yufree.cn/) | 西奈山医学院
@@ -16,6 +17,7 @@
 - [yuezhu.org](https://yuezhu.org/) | Live in days
 - [咚门](http://www.dearzd.com/DBlog/) | 安静的下午，浓郁的树荫，稀疏的阳光，一人，一书
 - [孔令贤](https://lingxiankong.github.io/index.html) | openstack 技术改变世界
+- [列驰](https://www.liechi.org/) | 我的精神家园
 - [李凡希的Blog](https://www.freemindworld.com/blog/) | Free as in Freedom
 - [落园](http://www.loyhome.com/) | Life is better when SHARED!
 - [云风](https://blog.codingnow.com/) | 思绪来得快去得也快，偶尔会在这里停留
