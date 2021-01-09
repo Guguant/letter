@@ -8,6 +8,7 @@ like and seen.
 - [ ] Stardust
 - [ ] 柯南
 - [ ] 天气之子
+- [ ] 真爱至上
 
 ## film director
 
