@@ -23,4 +23,5 @@ Everyday life.
 | 2020-12-11 | The Sound of Silence            | Simon & Garfunkel |
 | 2020-12-13 | White Charismas                 | Bing Crosby       |
 | 2020-12-15 | Last Christmas | Wham! |
+| 2020-12-22 | 送别 | 李叔同 |
 | 2021-01-10 | 喀秋莎 | 马特维·勃兰切尔 |
