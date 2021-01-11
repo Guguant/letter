@@ -25,6 +25,7 @@
 
 ## music
 
+- [OTGOBAND](https://www.otgoband.cn/) | 生活旋律
 - [tommyemmanuel.rocks/fingerstyle](https://tommyemmanuel.rocks/fingerstyle/) | A teljesség igénye nélkül tevékenykedünk! 🙂
 
 ## study
