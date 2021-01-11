@@ -133,7 +133,7 @@
 * 2020-01-20 *Ne sympathisez pas avec vous-même*
 * 2020-01-19 不要同情自己 -- *Norwegian Wood*
 * 2020-01-13 午睡时，做了一个小梦。小时候，在家里，和爷爷奶奶住一个房间。农历新年，他们在商量着，年夜饭做些什么菜，和亲人分享呢？
-* 2020-01-09 [https://byte.coffee/52](https://byte.coffee/52)
+* 2020-01-09 [Episode 51: 再次介绍我自己](https://byte.coffee/52)
 * 2020-01-06 新年新年
 
 ## 2019
