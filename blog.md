@@ -21,7 +21,6 @@
 - [列驰](https://www.liechi.org/) | 我的精神家园
 - [李凡希的Blog](https://www.freemindworld.com/blog/) | Free as in Freedom
 - [落园](http://www.loyhome.com/) | Life is better when SHARED!
-- [云巅论剑 -- 云原生](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNjE3MTcwMg==&action=getalbum&album_id=1555781259304435715&scene=173&from_msgid=2247485160&from_itemidx=1&count=3#wechat_redirect) | aliyun
 - [云风](https://blog.codingnow.com/) | 思绪来得快去得也快，偶尔会在这里停留
 
 ## music
@@ -46,7 +45,8 @@
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
 - [Kevin Beason](http://kevinbeason.com/) | graphics programmer
-- hci
+- HCI
   - [Austin Z. Henley](http://web.eecs.utk.edu/~azh/)
   - [Jacek Gwizdka](https://jacekg.ischool.utexas.edu/) |  How to pronounce my names?
   - [SUNYOUNG KIM](http://www.sunyoungkim.org/) | a HCI researcher
+- [云巅论剑 -- 云原生](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNjE3MTcwMg==&action=getalbum&album_id=1555781259304435715&scene=173&from_msgid=2247485160&from_itemidx=1&count=3#wechat_redirect) | aliyun
