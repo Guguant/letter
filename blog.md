@@ -15,6 +15,7 @@
 - [Yihan|文字园艺](https://yihanxu.github.io/) | 一枚传播学博士僧的生活及思考
 - [yihui](https://yihui.org/) | This blog is about statistics, R, graphics, life, and fun, with a special focus on R.
 - [yuezhu.org](https://yuezhu.org/) | Live in days
+- [#程序喵笔记](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4ODA1MzM0OQ==&action=getalbum&album_id=1365464082903793665&scene=173&from_msgid=2247485245&from_itemidx=1&count=3#wechat_redirect) | 程序喵的AI笔记
 - [咚门](http://www.dearzd.com/DBlog/) | 安静的下午，浓郁的树荫，稀疏的阳光，一人，一书
 - [孔令贤](https://lingxiankong.github.io/index.html) | openstack 技术改变世界
 - [列驰](https://www.liechi.org/) | 我的精神家园
