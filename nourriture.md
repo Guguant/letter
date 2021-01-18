@@ -9,7 +9,7 @@
 | 2021/1/15 | 红薯+菜包   | 煲仔饭         |                                   |             | 4+16+0+0      | 20         |
 | 2021/1/16 |             | 巧克力         | 咖啡                              |             | 0+3+30+0      | 33         |
 | 2021/1/17 |             | 青菜豆腐       | 饺子                              |             | 0+28+15+0     | 43         |
-| 2021/1/18 | 面包+酸奶   |                |                                   |             | 15            |            |
+| 2021/1/18 | 面包+酸奶   | 蔬菜三明治     | 蔬菜三明治                        |             | 15+13+0+0     | 28         |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -22,4 +22,4 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/15 | sweet potato + steamed buns | Claypot rice                |                                                              |                       | 4+16+0+0      | 20         |
 | 2021/1/16 |                             | chocolate                   | coffee                                                       |                       | 0+3+30+0      | 33         |
 | 2021/1/17 |                             | Tofu with Green Vegetables  | dumpling                                                     |                       | 0+28+15+0     | 43         |
-| 2021/1/18 | Bread + Yogurt              |                             |                                                              |                       | 15            |            |
+| 2021/1/18 | Bread + Yogurt              | Vegetable sandwich          | Vegetable sandwich                                           |                       | 15+13+0+0     | 28         |
