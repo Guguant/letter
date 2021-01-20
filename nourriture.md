@@ -10,7 +10,8 @@
 | 2021/1/16 |                                  | 巧克力         | 咖啡                              |             | 0+3+30+0      | 33         |
 | 2021/1/17 |                                  | 青菜豆腐       | 饺子                              |             | 0+28+15+0     | 43         |
 | 2021/1/18 | 面包+酸奶                        | 蔬菜三明治     | 蔬菜三明治                        |             | 15+13+0+0     | 28         |
-| 2021/1/19 | 豆腐花+油条+烧麦+鸡蛋+韭菜鸡蛋饼 | 酸奶           |                                   |             | 12+9.5        |            |
+| 2021/1/19 | 豆腐花+油条+烧麦+鸡蛋+韭菜鸡蛋饼 | 面包+酸奶      | 土豆+胡萝卜                       | 咖啡        | 12+9.5+12+30  | 63.5       |
+| 2021/1/20 | 玉米饼+发糕                      |                |                                   |             | 3.5           |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -24,4 +25,5 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/16 |                                                      | chocolate                   | coffee                                                       |                       | 0+3+30+0      | 33         |
 | 2021/1/17 |                                                      | Tofu with Green Vegetables  | dumpling                                                     |                       | 0+28+15+0     | 43         |
 | 2021/1/18 | Bread + Yogurt                                       | Vegetable sandwich          | Vegetable sandwich                                           |                       | 15+13+0+0     | 28         |
-| 2021/1/19 | tofu + fried bread stick + siu mai + egg + egg cakes | Yogurt                      |                                                              |                       | 12+9.5        |            |
+| 2021/1/19 | tofu + fried bread stick + siu mai + egg + egg cakes | Bread + Yogurt              | Potato + carrot                                              | coffee                | 12+9.5+12+30  | 63.5       |
+| 2021/1/20 | Tortilla + sponge cake                               |                             |                                                              |                       | 3.5           |            |
