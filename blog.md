@@ -42,6 +42,7 @@
 
 - [Alfie Kohn](https://www.alfiekohn.org/) | Alfie Kohn writes and speaks widely on human behavior, education, and parenting.
 - [Aras Pranckevičius](http://aras-p.info/) | I can read and write computer code.
+- [Developer Relations](https://devrel.me/) | 每个人都受两种教育，一种来自别人，另一种更重要的是来自自己。--爱德华·吉本
 - [Don Norman](https://jnd.org/about/) | design
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
