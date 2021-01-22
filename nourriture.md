@@ -13,6 +13,7 @@
 | 2021/1/19 | 豆腐花+油条+烧麦+鸡蛋+韭菜鸡蛋饼 | 面包+酸奶      | 土豆+胡萝卜                       | 咖啡        | 12+9.5+12+30   | 63.5       |
 | 2021/1/20 | 玉米饼+发糕                      | 小饼干+牛奶    | 聚餐                              |             | 3.5+0+0+0      | 3.5        |
 | 2021/1/21 | 馒头+鸡蛋+粥                     | 番茄黄瓜鸡蛋面 | 土豆+鸡蛋                         | 可乐        | 5.5+8+10.5+3.5 | 27.5       |
+| 2021/1/22 |                                  | 面包+咖啡      |                                   |             | 0+16           |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -29,4 +30,5 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/19 | tofu + fried bread stick + siu mai + egg + egg cakes | Bread + Yogurt              | Potato + carrot                                              | coffee                | 12+9.5+12+30   | 63.5       |
 | 2021/1/20 | Tortilla + sponge cake                               | cookie + milk               | dinner party                                                 |                       | 3.5+0+0+0      | 3.5        |
 | 2021/1/21 | Steamed buns + eggs + porridge                       | Tomato Cucumber Egg Noodles | potato + egg                                                 | cola                  | 5.5+8+10.5+3.5 | 27.5       |
+| 2021/1/22 |                                                      | bread + coffee              |                                                              |                       | 0+16           |            |
 
