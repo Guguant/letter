@@ -17,7 +17,7 @@
 | 2021/1/23 |                                  |                |                                   |             |                |            |
 | 2021/1/24 |                                  |                |                                   |             |                |            |
 | 2021/1/25 | 面包+酸奶                        | 面包           | 土豆+鸡蛋+豆干                    | 可乐        | 20+0+21+3      | 44         |
-| 2021/1/26 |                                  |                |                                   |             |                |            |
+| 2021/1/26 | 花卷+鸡蛋                        |                |                                   |             | 3              |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -38,5 +38,5 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/23 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/24 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/25 | Bread + Yogurt                                       | Bread                       | potato+egg+Tofu                                              | cola                  | 20+0+21+3      | 44         |
-| 2021/1/26 |                                                      |                             |                                                              |                       |                |            |
+| 2021/1/26 | hanamaki + egg                                       |                             |                                                              |                       | 3              |            |
 
