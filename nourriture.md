@@ -17,7 +17,9 @@
 | 2021/1/23 |                                  |                |                                   |             |                |            |
 | 2021/1/24 |                                  |                |                                   |             |                |            |
 | 2021/1/25 | 面包+酸奶                        | 面包           | 土豆+鸡蛋+豆干                    | 可乐        | 20+0+21+3      | 44         |
-| 2021/1/26 | 花卷+鸡蛋                        |                |                                   |             | 3              |            |
+| 2021/1/26 | 花卷+鸡蛋                        |                | 煲仔饭                            |             | 3+0+16+0       | 19         |
+| 2021/1/27 | 面包                             | 豆角+鸡蛋      | 泡面                              |             | 0+11+5+0       | 16         |
+| 2021/1/28 |                                  |                |                                   |             |                |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -38,5 +40,7 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/23 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/24 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/25 | Bread + Yogurt                                       | Bread                       | potato+egg+Tofu                                              | cola                  | 20+0+21+3      | 44         |
-| 2021/1/26 | hanamaki + egg                                       |                             |                                                              |                       | 3              |            |
+| 2021/1/26 | hanamaki + egg                                       |                             | Claypot rice                                                 |                       | 3+0+16+0       | 19         |
+| 2021/1/27 | bread                                                | Carob + egg                 | Instant noodles                                              |                       | 0+11+5+0       | 16         |
+| 2021/1/28 |                                                      |                             |                                                              |                       |                |            |
 
