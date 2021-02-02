@@ -54,5 +54,5 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/31 |                                                      |                             |                                                              |                       |                |            |
 | 2021/2/1  | cake+egg                                             |                             | rice flour                                                   |                       | 4+0+14+0       | 18         |
 | 2021/2/2  |                                                      | coffee                      | Dumplings                                                    |                       | 0+32+18+0      | 50         |
-|           |                                                      |                             |                                                              |                       |                |            |
+| 2021/2/3  |                                                      |                             |                                                              |                       |                |            |
 
