@@ -46,6 +46,7 @@
 - [Don Norman](https://jnd.org/about/) | design
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
 - [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
+- [kemitchell](https://writing.kemitchell.com/) | lawyer
 - [Kevin Beason](http://kevinbeason.com/) | graphics programmer
 - HCI
   - [Austin Z. Henley](http://web.eecs.utk.edu/~azh/)
