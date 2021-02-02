@@ -25,7 +25,8 @@
 | 2021/1/31 |                                  |                |                                   |             |                |            |
 | 2021/2/1  | 饼+鸡蛋                          |                | 米粉                              |             | 4+0+14+0       | 18         |
 | 2021/2/2  |                                  | 咖啡           | 饺子                              |             | 0+32+18+0      | 50         |
-| 2021/2/3  |                                  |                |                                   |             |                |            |
+| 2021/2/3  | 面包+香蕉                        |                |                                   |             | 0              |            |
+| 2021/2/4  |                                  |                |                                   |             |                |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -52,7 +53,8 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/29 | Mandarin roll                                        |                             |                                                              |                       | 1              |            |
 | 2021/1/30 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/31 |                                                      |                             |                                                              |                       |                |            |
-| 2021/2/1  | cake+egg                                             |                             | rice flour                                                   |                       | 4+0+14+0       | 18         |
+| 2021/2/1  | cake + egg                                           |                             | rice flour                                                   |                       | 4+0+14+0       | 18         |
 | 2021/2/2  |                                                      | coffee                      | Dumplings                                                    |                       | 0+32+18+0      | 50         |
-| 2021/2/3  |                                                      |                             |                                                              |                       |                |            |
+| 2021/2/3  | bread + banana                                       |                             |                                                              |                       | 0              |            |
+| 2021/2/4  |                                                      |                             |                                                              |                       |                |            |
 
