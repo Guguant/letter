@@ -20,14 +20,19 @@
 | 2021/1/26 | 花卷+鸡蛋                        |                | 煲仔饭                            |             | 3+0+16+0       | 19         |
 | 2021/1/27 | 面包                             | 豆角+鸡蛋      | 泡面                              |             | 0+11+5+0       | 16         |
 | 2021/1/28 | 小米糕+红薯                      | 零食+咖啡      | 土豆+海带                         |             | 6+21+11        | 38         |
-| 2021/1/29 |                                  |                |                                   |             |                |            |
+| 2021/1/29 | 花卷                             |                | 聚餐                              |             | 1+0+0+0        | 1          |
+| 2021/1/20 |                                  |                |                                   |             |                |            |
+| 2021/1/31 |                                  |                |                                   |             |                |            |
+| 2021/2/1  | 饼+鸡蛋                          |                | 米粉                              |             | 4+0+14+0       | 18         |
+| 2021/2/2  |                                  | 咖啡           | 饺子                              |             | 0+32+18+0      | 50         |
+| 2021/2/3  |                                  |                |                                   |             |                |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
 | date      | breakfast                                            | lunch                       | dinner                                                       | bonus                 | price          | total(CNY) |
 | --------- | ---------------------------------------------------- | --------------------------- | ------------------------------------------------------------ | --------------------- | -------------- | ---------- |
-| 2021/1/11 | hanamaki                                             | tofu + pumpkin + vermicelli | sweet potato + pumpkin pie + glutinous rice cake + white porridge + peanut stuffed buns |                       | 1+13+13        | 27         |
-| 2021/1/12 | hanamaki + Tortilla                                  | cauliflower + egg           | tomato and egg noodles                                       | donuts                | 2.5+11+17+9.7  | 40.2       |
+| 2021/1/11 | Mandarin roll                                        | tofu + pumpkin + vermicelli | sweet potato + pumpkin pie + glutinous rice cake + white porridge + peanut stuffed buns |                       | 1+13+13        | 27         |
+| 2021/1/12 | Mandarin roll + Tortilla                             | cauliflower + egg           | tomato and egg noodles                                       | donuts                | 2.5+11+17+9.7  | 40.2       |
 | 2021/1/13 | sponge cake + egg                                    | cabbage vermicelli + egg    | cereal biscuit                                               | milk + cereal biscuit | 3+10.9+0+15    | 28.9       |
 | 2021/1/14 | noodles + egg                                        | vegetable bibimbap          |                                                              |                       | 7+15+0+0       | 22         |
 | 2021/1/15 | sweet potato + steamed buns                          | Claypot rice                |                                                              |                       | 4+16+0+0       | 20         |
@@ -41,8 +46,13 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/1/23 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/24 |                                                      |                             |                                                              |                       |                |            |
 | 2021/1/25 | Bread + Yogurt                                       | Bread                       | potato+egg+Tofu                                              | cola                  | 20+0+21+3      | 44         |
-| 2021/1/26 | hanamaki + egg                                       |                             | Claypot rice                                                 |                       | 3+0+16+0       | 19         |
+| 2021/1/26 | Mandarin roll + egg                                  |                             | Claypot rice                                                 |                       | 3+0+16+0       | 19         |
 | 2021/1/27 | bread                                                | Carob + egg                 | Instant noodles                                              |                       | 0+11+5+0       | 16         |
 | 2021/1/28 | Millet cake + sweet potato                           | Snacks + Coffee             | potato + kelp                                                |                       | 6+21+11        | 38         |
-| 2021/1/29 |                                                      |                             |                                                              |                       |                |            |
+| 2021/1/29 | Mandarin roll                                        |                             |                                                              |                       | 1              |            |
+| 2021/1/30 |                                                      |                             |                                                              |                       |                |            |
+| 2021/1/31 |                                                      |                             |                                                              |                       |                |            |
+| 2021/2/1  | cake+egg                                             |                             | rice flour                                                   |                       | 4+0+14+0       | 18         |
+| 2021/2/2  |                                                      | coffee                      | Dumplings                                                    |                       | 0+32+18+0      | 50         |
+|           |                                                      |                             |                                                              |                       |                |            |
 
