@@ -27,7 +27,10 @@
 | 2021/2/2  |                                  | 咖啡           | 饺子                              |             | 0+32+18+0      | 50         |
 | 2021/2/3  | 面包+香蕉                        | 煲仔饭         | 玉米                              |             | 0+16+3         | 19         |
 | 2021/2/4  | 豆腐小笼包+白粥                  | 咖啡+面包      | 咖喱饭                            |             | 16+33+15       | 64         |
-| 2021/2/5  |                                  |                |                                   |             |                |            |
+| 2021/2/5  | 红薯+蘑菇包                      | 咖啡           |                                   |             | 4+33+0+0       | 37         |
+| 2021/2/6  |                                  |                | 藕                                |             | 0+0+0+0        | 0          |
+| 2021/2/7  |                                  |                |                                   |             |                |            |
+| 2021/2/8  |                                  |                |                                   |             |                |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -58,5 +61,8 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/2/2  |                                                      | coffee                      | Dumplings                                                    |                       | 0+32+18+0      | 50         |
 | 2021/2/3  | bread + banana                                       | Claypot rice                | corn                                                         |                       | 0+16+3+0       | 19         |
 | 2021/2/4  | Tofu Xiaolongbao + Porridge                          | coffee + bread              | curry rice                                                   |                       | 16+33+15       | 64         |
-| 2021/2/5  |                                                      |                             |                                                              |                       |                |            |
+| 2021/2/5  | Sweet Potato + Mushroom Bun                          |                             |                                                              |                       | 4              | 4          |
+| 2021/2/6  |                                                      |                             | Lotus root                                                   |                       | 0+0+0+0        | 0          |
+| 2021/2/7  |                                                      |                             |                                                              |                       |                |            |
+| 2021/2/8  |                                                      |                             |                                                              |                       |                |            |
 
