@@ -39,6 +39,7 @@ like and seen.
 
 - [x] 2021-01-08 闻香识女人  -- 配乐《por una cabeza》
 - [x] 2021-01-03 拆弹专家2
+- [x] 2021-01-02 午夜巴黎 Midnight in Paris, written and directed by Woody Allen
 - [x] 2021-01-01 The Bucket List
 
 ## 2020
