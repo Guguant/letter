@@ -29,8 +29,9 @@
 | 2021/2/4  | 豆腐小笼包+白粥                  | 咖啡+面包      | 咖喱饭                            |             | 16+33+15       | 64         |
 | 2021/2/5  | 红薯+蘑菇包                      | 咖啡           |                                   |             | 4+33+0+0       | 37         |
 | 2021/2/6  |                                  |                | 藕                                |             | 0+0+0+0        | 0          |
-| 2021/2/7  |                                  |                |                                   |             |                |            |
-| 2021/2/8  |                                  |                |                                   |             |                |            |
+| 2021/2/7  | 拌面+煎蛋+红薯+饺子              |                | 番茄鸡蛋                          |             | 10+0+0+9       | 19         |
+| 2021/2/8  | 花卷+鸡蛋                        |                |                                   |             | 2              |            |
+| 2021/2/9  |                                  |                |                                   |             |                |            |
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
 
@@ -63,6 +64,7 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/2/4  | Tofu Xiaolongbao + Porridge                          | coffee + bread              | curry rice                                                   |                       | 16+33+15       | 64         |
 | 2021/2/5  | Sweet Potato + Mushroom Bun                          |                             |                                                              |                       | 4              | 4          |
 | 2021/2/6  |                                                      |                             | Lotus root                                                   |                       | 0+0+0+0        | 0          |
-| 2021/2/7  |                                                      |                             |                                                              |                       |                |            |
-| 2021/2/8  |                                                      |                             |                                                              |                       |                |            |
+| 2021/2/7  | Noodles + Fried Eggs + Sweet Potatoes + Dumplings    |                             | Tomato egg                                                   |                       | 10+0+0+9       | 19         |
+| 2021/2/8  | Mandarin roll + egg                                  |                             |                                                              |                       | 2              |            |
+| 2021/2/9  |                                                      |                             |                                                              |                       |                |            |
 
