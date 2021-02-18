@@ -39,7 +39,9 @@
 | 2021/2/14 |                                  | 苏打水         | 2包泡面                           |             | 0+7+6+0        | 13         |
 | 2021/2/15 |                                  |                | 咖啡                              |             | 0+0+32+0       | 32         |
 | 2021/2/16 |                                  |                |                                   |             |                |            |
-
+| 2021/2/17 | | | 蔬菜泡面 | | 0+0+0+6 | 6 |
+| 2021/2/18 | 包子+麻球 | | | | 4 | |
+| 2021/2/19 | | | | | | |
 
 
 Start from 2021/1/10, I decide to take a vegetarian diet. The list includes fruits, vegetables, bread, butter and milk. How much time I can do?
@@ -83,4 +85,6 @@ Start from 2021/1/10, I decide to take a vegetarian diet. The list includes frui
 | 2021/2/14 |      | soda water | Instant noodles                                              |      | 0+7+6+0  | 13   |
 | 2021/2/15 |      |        | coffee |      | 0+0+32+0 | 32   |
 | 2021/2/16 | | |  | |  |  |
-
+| 2021/2/17 | | | Vegetable instant noodles | | 0+0+0+6 | 6 |
+| 2021/2/18 | Steamed bun + Hemp ball | | | | 4 | |
+| 2021/2/19 | | | | | | |
