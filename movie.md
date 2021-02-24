@@ -39,6 +39,7 @@ like and seen.
 ## 2021
 
 - [x] 2021-02-23 假如猫从这个世界上消失了
+- [x] 2021-02-20 你好，李焕英
 - [x] 2021-01-08 闻香识女人  -- 配乐《por una cabeza》
 - [x] 2021-01-03 拆弹专家2
 - [x] 2021-01-02 午夜巴黎 Midnight in Paris, written and directed by Woody Allen
