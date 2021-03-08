@@ -10,6 +10,7 @@
 - [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
 - [reuixiy](https://io-oi.me/life/) | 一休儿
 - [shredderyin](https://docs.huihoo.com/homepage/shredderyin/index.html) | Yin
+- [simple style](http://www.simple-style.com/) | 字体
 - [steve losh](https://stevelosh.com/) | I'm a photographer, programmer, dancer, and bassist currently living in Rochester, New York.
 - [The Spruce](https://www.thespruce.com/) | Make you best home
 - [Yihan|文字园艺](https://yihanxu.github.io/) | 一枚传播学博士僧的生活及思考
