@@ -48,11 +48,12 @@
 - [Developer Relations](https://devrel.me/) | 每个人都受两种教育，一种来自别人，另一种更重要的是来自自己。--爱德华·吉本
 - [Don Norman](https://jnd.org/about/) | design
 - [Eric Steven Ronmand](http://www.catb.org/esr/) | Given enough eyeballs, all bugs are shallow
-- [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
-- [kemitchell](https://writing.kemitchell.com/) | lawyer
-- [Kevin Beason](http://kevinbeason.com/) | graphics programmer
 - HCI
   - [Austin Z. Henley](http://web.eecs.utk.edu/~azh/)
   - [Jacek Gwizdka](https://jacekg.ischool.utexas.edu/) |  How to pronounce my names?
   - [SUNYOUNG KIM](http://www.sunyoungkim.org/) | a HCI researcher
+- [Junfeng Yang](http://www.cs.columbia.edu/~junfeng/) | 软件可靠性
+- [kemitchell](https://writing.kemitchell.com/) | lawyer
+- [Kevin Beason](http://kevinbeason.com/) | graphics programmer
+- [OEF](https://oef.org.cn/) | 开放教育反应堆
 - [云巅论剑 -- 云原生](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNjE3MTcwMg==&action=getalbum&album_id=1555781259304435715&scene=173&from_msgid=2247485160&from_itemidx=1&count=3#wechat_redirect) | aliyun
