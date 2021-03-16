@@ -35,6 +35,7 @@
 ## study
 
 - [changkun Ou](https://changkun.us/) | Science and art, life in between
+- [DIY 留学申请全攻略](https://linghao.io/posts/gradapply-diy/)
 - [games-cn.org/jobs/](http://games-cn.org/jobs/)
 - [http://www4.comp.polyu.edu.hk/~pinli/](http://www4.comp.polyu.edu.hk/~pinli/)
 - [krste](https://people.eecs.berkeley.edu/~krste/) | computer architecture
