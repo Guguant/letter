@@ -11,6 +11,7 @@ like and seen.
 - [ ] 真爱至上
 - [ ] Tracks
 - [ ] 大佛普拉斯
+- [ ] 春天的故事 Éric Rohmer
 
 ## film director
 
