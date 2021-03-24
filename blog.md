@@ -10,6 +10,7 @@
 - [liqi.io](https://liqi.io/) | 创造者和他们的工具
 - [Miao Yu](https://yufree.cn/) | 西奈山医学院
 - [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
+- [PENG ZHAO](https://pzhao.org/zh/) | 赵鹏博士。工作之余，他喜欢 R 语言和儿童教育。
 - [reuixiy](https://io-oi.me/life/) | 一休儿
 - [shredderyin](https://docs.huihoo.com/homepage/shredderyin/index.html) | Yin
 - [simple style](http://www.simple-style.com/) | 字体
