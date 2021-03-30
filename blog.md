@@ -2,6 +2,7 @@
 
 ## life
 
+- [adoyle](http://adoyle.me/blog/) | 100% 爱猫人士
 - [byvoid](https://www.byvoid.com/) | Beyond the Void
 - [cos](https://d.cosx.org/) | 统计之都
 - [curious creature](https://www.curious-creature.com/) | I share the photos I take whenever I can find time to escape the daily routine. 
