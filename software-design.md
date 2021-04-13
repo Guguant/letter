@@ -12,4 +12,6 @@ ios system
 
 win10 system
 
+* Bandicam - record the screen
 * freac - free audio converter
+* ScreenToGif
