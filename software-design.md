@@ -4,5 +4,12 @@ software lists that I want to design.
 
 good apps gallary
 
+ios system
+
 * GuitarTuna
 * Metronome
+* Telegram
+
+win10 system
+
+* freac - free audio converter
