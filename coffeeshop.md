@@ -12,3 +12,7 @@ Coffee shop all over the world
 * WHITEBREAD BLACKBIRD
 * YELLOW PLACE
 * SVIT KAVY
+
+**digital coffee sonic**
+
+* [lofi.cafe](https://lofi.cafe/)
