@@ -6,6 +6,17 @@ play rock CD on Monday, play folk CD on Tuesday, play jazz on Wednesday ...
 
 Coffee shop all over the world
 
+**China**
+
+* 浙江
+  * 杭州 
+    * 木心咖啡馆
+    * 福乐咖啡
+    * 尤利西斯
+* 山东
+  * 滕州
+    * 定格咖啡馆 [diggcafe](https://diggcafe.com/)
+
 **Ukraine**
 
 * BIMBO COFFEE & MORE
