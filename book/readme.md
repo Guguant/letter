@@ -12,6 +12,7 @@
 - [ ] Get Things Done 三件套
 - [ ] 芭芭拉少校
 - [ ] 被讨厌的勇气
+- [ ] [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by esr
 
 ## 2019
 
