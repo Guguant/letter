@@ -13,6 +13,7 @@ I think that it's very important for CSer to read kinds of articles.
 - [【论衡】支教，先谈教育，再谈公益 2015-05-19 北大青年](http://mp.weixin.qq.com/s/qBPs5CA204uSxFk4Rp6_aw)
 - [2019 年日本熊野古道纪行及其他](https://www.notion.so/2019-103fbf4d8ca14413bfaab82510153c21)
 - [(分手前)想和我的Geek男友做的47件事](https://www.douban.com/note/474111924/)
+- [失恋自救指南](https://yuezhu.org/失恋自救指南/)
 
 ## 机器学习
 
