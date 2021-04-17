@@ -40,4 +40,9 @@ What is the Markdown? How to use it to edit articles? Wow see here.
 - [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) |   :ribbon: :sunny:  :house:  :one: /play secret 
 
 ## work
+
 * [how to write resume gracefully](https://qcrao.com/2019/07/08/how-to-write-resume-gracefully/)
+
+## life
+
+* [Beancount複式記賬（一）：爲什麼](https://www.byvoid.com/zht/blog/beancount-bookkeeping-1)
