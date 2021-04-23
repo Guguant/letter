@@ -6,14 +6,14 @@ good apps gallary
 
 ios system
 
-* GuitarTuna
-* Metronome
-* Telegram
+- GuitarTuna
+- Metronome
+- Telegram
 
 win10 system
 
-* Bandicam - record the screen
-* Cmder - console terminal
-* freac - free audio converter
-* MyerSplash - windows wallpaper
-* ScreenToGif
+- Bandicam - record the screen
+- Cmder - console terminal
+- freac - free audio converter
+- MyerSplash - windows wallpaper
+- ScreenToGif
