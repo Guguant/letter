@@ -1,29 +1,39 @@
-# Value article
+# Valuable articles
 
 I think that it's very important for CSer to read kinds of articles.
 
-## 目录
+## life
 
-[TOC]
-
-## Good
-
-- [Physically-based Modeling and Rendering of Complex Visual Appearance](https://sites.cs.ucsb.edu/~lingqi/publications/thesis_final.pdf) by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)
-- [浅谈人工智能：现状、任务、构架与统一 | 正本清源 原创 2017-11-02 朱松纯](http://mp.weixin.qq.com/s/-wSYLu-XvOrsST8_KEUa-Q)
-- [【论衡】支教，先谈教育，再谈公益 2015-05-19 北大青年](http://mp.weixin.qq.com/s/qBPs5CA204uSxFk4Rp6_aw)
-- [2019 年日本熊野古道纪行及其他](https://www.notion.so/2019-103fbf4d8ca14413bfaab82510153c21)
 - [(分手前)想和我的Geek男友做的47件事](https://www.douban.com/note/474111924/)
 - [失恋自救指南](https://yuezhu.org/失恋自救指南/)
+- [学术人生：文章千古事得失寸心知](http://www.stat.ucla.edu/~sczhu/Blog_articles/学术人生：文章千古事得失寸心知.pdf) by 朱松纯，2017-02-09
 
-## 机器学习
+### education
 
-### database
+- [【论衡】支教，先谈教育，再谈公益 2015-05-19 北大青年](http://mp.weixin.qq.com/s/qBPs5CA204uSxFk4Rp6_aw)
 
-[Mnist database](http://yann.lecun.com/exdb/mnist/), THE MNIST DATABASEof handwritten digits
+### travel stories
 
-[Cohn-Kanade (CK and CK+) database](http://www.consortium.ri.cmu.edu/ckagree/), 图像序列表情识别
+- [2019 年日本熊野古道纪行及其他](https://www.notion.so/2019-c50845d5d39a4ff0a7b5a67102150ae3) by 任宁
 
-## svm
+## technology
+
+### ai
+
+- [浅谈人工智能：现状、任务、构架与统一](http://www.stat.ucla.edu/~sczhu/Blog_articles/浅谈人工智能.pdf) by 朱松纯，2017-11-20
+
+### graphics
+
+- [Physically-based Modeling and Rendering of Complex Visual Appearance](https://sites.cs.ucsb.edu/~lingqi/publications/thesis_final.pdf) by [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/)
+
+### machine learning
+
+#### database
+
+* [Mnist database](http://yann.lecun.com/exdb/mnist/), THE MNIST DATABASEof handwritten digits
+* [Cohn-Kanade (CK and CK+) database](http://www.consortium.ri.cmu.edu/ckagree/), 图像序列表情识别
+
+### svm
 
 1. [piaip's Using (lib)SVM Tutorial](https://www.csie.ntu.edu.tw/~piaip/svm/svm_tutorial.html) by Hung-Te Lin.
 2. [笨蛋也可以用的libsvm](http://www.cmlab.csie.ntu.edu.tw/~cyy/learning/tutorials/libsvm.pdf) by pavement@cmlab.csie.ntu.edu.tw.
@@ -39,10 +49,7 @@ What is the Markdown? How to use it to edit articles? Wow see here.
 - [shields](http://shields.io/) |    ![Travis](https://img.shields.io/travis/USER/REPO.svg)![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)  ![CDNJS](https://img.shields.io/cdnjs/v/jquery.svg) ![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork) ![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)
 - [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) |   :ribbon: :sunny:  :house:  :one: /play secret 
 
-## work
+## tools
 
 * [how to write resume gracefully](https://qcrao.com/2019/07/08/how-to-write-resume-gracefully/)
-
-## life
-
 * [Beancount複式記賬（一）：爲什麼](https://www.byvoid.com/zht/blog/beancount-bookkeeping-1)
