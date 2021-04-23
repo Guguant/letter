@@ -8,13 +8,13 @@ I think that it's very important for CSer to read kinds of articles.
   - [(分手前)想和我的Geek男友做的47件事](https://www.douban.com/note/474111924/)
   - [失恋自救指南](https://yuezhu.org/失恋自救指南/)
   - [学术人生：文章千古事得失寸心知](http://www.stat.ucla.edu/~sczhu/Blog_articles/学术人生：文章千古事得失寸心知.pdf) by 朱松纯，2017-02-09
+
+* education
+  - [【论衡】支教，先谈教育，再谈公益 2015-05-19 北大青年](http://mp.weixin.qq.com/s/qBPs5CA204uSxFk4Rp6_aw)
+  - [OEF李春燕——我在杏坛](https://oef.org.cn/about/yan-education/) | 寻找你的星星
+
 * travel stories
   - [2019 年日本熊野古道纪行及其他](https://www.notion.so/2019-c50845d5d39a4ff0a7b5a67102150ae3) by 任宁
-
-## Education
-
-- [【论衡】支教，先谈教育，再谈公益 2015-05-19 北大青年](http://mp.weixin.qq.com/s/qBPs5CA204uSxFk4Rp6_aw)
-- [OEF李春燕——我在杏坛](https://oef.org.cn/about/yan-education/) | 寻找你的星星
 
 ## Work
 
@@ -26,8 +26,8 @@ I think that it's very important for CSer to read kinds of articles.
 
 * machine learning
   - database
-    - [Mnist database](http://yann.lecun.com/exdb/mnist/), THE MNIST DATABASEof handwritten digits
-    - [Cohn-Kanade (CK and CK+) database](http://www.consortium.ri.cmu.edu/ckagree/), 图像序列表情识别
+    - [Mnist database](https://www.ri.cmu.edu/project/cohn-kanade-au-coded-facial-expression-database/), THE MNIST DATABASEof handwritten digits
+    - [Cohn-Kanade (CK and CK+) database](http://www.jeffcohn.net/wp-content/uploads/2020/02/Cohn-Kanade_Database.pdf.pdf), Facial Expression Analysis
   - svm
     1. [piaip's Using (lib)SVM Tutorial](https://www.csie.ntu.edu.tw/~piaip/svm/svm_tutorial.html) by Hung-Te Lin.
     2. [笨蛋也可以用的libsvm](http://www.cmlab.csie.ntu.edu.tw/~cyy/learning/tutorials/libsvm.pdf) by pavement@cmlab.csie.ntu.edu.tw.
@@ -36,9 +36,8 @@ I think that it's very important for CSer to read kinds of articles.
   - tutorial 
     - [Markdown document](https://daringfireball.net/projects/markdown/syntax) 
     - [Markdown中文文档](http://markdown.tw/)
-    - [How to Write a good readme.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
   - [shields](http://shields.io/) | ![Travis](https://img.shields.io/travis/USER/REPO.svg)![Github All Releases](https://img.shields.io/github/downloads/atom/atom/total.svg)  ![CDNJS](https://img.shields.io/cdnjs/v/jquery.svg) ![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork) ![Crates.io](https://img.shields.io/crates/l/rustc-serialize.svg)
-  - [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/) |   :ribbon: :sunny:  :house:  :one: /play secret 
+  - [emoji](https://gist.github.com/rxaviers/7360908)
 
 * tools
   - [how to write resume gracefully](https://qcrao.com/2019/07/08/how-to-write-resume-gracefully/)
