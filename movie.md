@@ -6,8 +6,6 @@ like and seen.
 
 - [ ] Chef's Table
 - [ ] Stardust
-- [ ] 柯南
-- [ ] 天气之子
 - [ ] 真爱至上
 - [ ] Tracks
 - [ ] 大佛普拉斯
@@ -17,45 +15,22 @@ like and seen.
 
 ## love and family
 
-爱情三部曲 (理查德 林克莱特)
+love · 爱情三部曲 (理查德 林克莱特)
 
 - [ ] 爱在黎明破晓前
 - [ ] 爱在日落黄昏时
 - [ ] 爱在午夜降临前
 
-家庭三部曲 (李安)
+family · 家庭三部曲 (李安)
 
 - [ ] 推手
 - [x] 喜宴
 - [ ] 饮食男女
 
-## film director
-
-- [ ] Éric Rohmer
-- [ ] 伍迪 · 艾伦
-
-## 阿丛超推荐
-
-- [x] 爱 · 死亡 · 机器人
-- [x] 鲜花大战
-- [x] 今敏
-  - [x] 红辣椒
-  - [x] 未麻的房间
-  - [x] 千年女优
-  - [x] 东京教父
-- [ ] 崩溃
-- [x] 怪兽在巴黎
-
-## best
-
-- [x] 第36个故事
-- [x] 重庆森林
-- [x] 品味咖啡
-- [x] 天使爱美丽 Amélie
-- [x] [Run with the Wind](https://en.wikipedia.org/wiki/Run_with_the_Wind)，强风吹拂
-
 ## 2021
 
+- [x] 2021 天气之子
+- [x] 2021 品味咖啡 | 咖啡世界之旅行
 - [x] 2021-04-12 星际穿越
 - [x] 2021-04-11 醉乡民谣 
 - [x] 2021-04-03 春天的故事 Éric Rohmer
@@ -68,6 +43,8 @@ like and seen.
 
 ## 2020
 
+- [x] 2020 重庆森林
+- [x] 2020 天使爱美丽 Amélie
 - [x] 2020-12-27 心灵奇旅 (Soul)
 - [x] 2020-04-25 乔乔的异想世界
 - [x] 2020-03-08 风之谷 宫崎骏
@@ -76,6 +53,7 @@ like and seen.
 
 ## 2019
 
+- [x] [Run with the Wind](https://en.wikipedia.org/wiki/Run_with_the_Wind)，强风吹拂 | 你喜欢跑步吗？
 - [x] 2019-11-15 海上钢琴师
 - [x] 2019-10-18 海贼王：狂热行动
 - [x] 2019-09-07 人生果实
@@ -93,3 +71,28 @@ like and seen.
 - [x] 2018-12-16 龙猫 
 - [x] 2018-07-22 邪不压正 姜文
 - [x] 2018-07-07 我不是药神 宁浩
+
+## 2015
+
+- [x] 2015-10-27 第36个故事 | 城市是空的，故事是人写的
+
+## 阿丛超推荐
+
+- [x] 爱 · 死亡 · 机器人
+- [x] 鲜花大战
+- [x] 今敏
+  - [x] 红辣椒
+  - [x] 未麻的房间
+  - [x] 千年女优
+  - [x] 东京教父
+- [ ] 崩溃
+- [x] 怪兽在巴黎
+
+## director
+
+- [ ] Éric Rohmer
+- [ ] Woody Allen
+
+## studio
+
+* [wintersweetanimation](http://wintersweetanimation.com/) | FIRST BLOOM 连理枝
