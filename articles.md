@@ -9,7 +9,7 @@ I think that it's very important for CSer to read kinds of articles.
   - [失恋自救指南](https://yuezhu.org/失恋自救指南/)
   - [学术人生：文章千古事得失寸心知](http://www.stat.ucla.edu/~sczhu/Blog_articles/学术人生：文章千古事得失寸心知.pdf) by 朱松纯，2017-02-09
 * travel stories
-  -[2019 年日本熊野古道纪行及其他](https://www.notion.so/2019-c50845d5d39a4ff0a7b5a67102150ae3) by 任宁
+  - [2019 年日本熊野古道纪行及其他](https://www.notion.so/2019-c50845d5d39a4ff0a7b5a67102150ae3) by 任宁
 
 ## Education
 
