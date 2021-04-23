@@ -1,6 +1,6 @@
-# Valuable articles
+# Enjoyable articles
 
-I think that it's very important for CSer to read kinds of articles.
+I think that it's a very enjoyable thing for CSer to read kinds of articles.
 
 ## Life
 
