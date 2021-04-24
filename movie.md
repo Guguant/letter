@@ -90,8 +90,13 @@ family · 家庭三部曲 (李安)
 
 ## director
 
-- [ ] Éric Rohmer
-- [ ] Woody Allen
+Éric Rohmer
+  - [ ] A Tale of Springtime (1990)
+  - [ ] A Tale of Winter (1992)
+  - [ ] A Summer's Tale (1996)
+  - [ ] Autumn Tale (1999)
+
+Woody Allen
 
 ## studio
 
