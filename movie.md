@@ -101,3 +101,4 @@ Woody Allen
 ## studio
 
 * [wintersweetanimation](http://wintersweetanimation.com/) | FIRST BLOOM 连理枝
+* [十月文化](https://www.octmedia.com/)
