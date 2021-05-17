@@ -32,19 +32,18 @@
 
 ## music
 
-- [OTGOBAND](https://www.otgoband.cn/) | 生活旋律
+- [otgoband](https://www.otgoband.cn/) | 生活旋律
 - [tommyemmanuel.rocks/fingerstyle](https://tommyemmanuel.rocks/fingerstyle/) | A teljesség igénye nélkül tevékenykedünk! 🙂
 
 ## study
 
+- [airs](https://airs.cuhk.edu.cn/) | We are exploring what artificial intelligence and robotics can bring to human being......
 - [changkun Ou](https://changkun.us/) | Science and art, life in between
 - [DIY 留学申请全攻略](https://linghao.io/posts/gradapply-diy/)
 - [games-cn.org/jobs/](http://games-cn.org/jobs/)
 - [http://www4.comp.polyu.edu.hk/~pinli/](http://www4.comp.polyu.edu.hk/~pinli/)
 - [krste](https://people.eecs.berkeley.edu/~krste/) | computer architecture
 - [metaphox](http://blog.metaphox.com/) | Nunc scio, quid sit Amor | German
-- [staffeng stories](https://staffeng.com/stories) | Folks who have shared their stories of reaching Staff-plus engineer roles
-- [tms-interview-index](https://blogcn.acacess.com/tms-interview-index) | ACACESS LAB
 
 ## work
 
@@ -62,3 +61,5 @@
 - [Kevin Beason](http://kevinbeason.com/) | graphics programmer
 - [OEF](https://oef.org.cn/) | 开放教育反应堆
 - [云巅论剑 -- 云原生](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNjE3MTcwMg==&action=getalbum&album_id=1555781259304435715&scene=173&from_msgid=2247485160&from_itemidx=1&count=3#wechat_redirect) | aliyun
+- [staffeng stories](https://staffeng.com/stories) | Folks who have shared their stories of reaching Staff-plus engineer roles
+- [tms-interview-index](https://blogcn.acacess.com/tms-interview-index) | ACACESS LAB
