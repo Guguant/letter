@@ -91,8 +91,8 @@ family · 家庭三部曲 (李安)
 ## director
 
 Éric Rohmer
-  - [ ] A Tale of Springtime (1990)
-  - [ ] A Tale of Winter (1992)
+  - [x] A Tale of Springtime (1990)
+  - [x] A Tale of Winter (1992)
   - [ ] A Summer's Tale (1996)
   - [ ] Autumn Tale (1999)
 
