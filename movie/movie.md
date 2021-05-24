@@ -2,36 +2,49 @@
 
 like and seen.
 
+[TOC]
+
 ## want to see
 
-- [ ] Chef's Table
 - [ ] Stardust
-- [ ] 真爱至上
 - [ ] Tracks
 - [ ] 大佛普拉斯
 - [ ] 穿条纹睡衣的男孩
 - [ ] 希特勒的男孩
 - [ ] 罗马十一时
 
-## love and family
+## family
 
-love · 爱情三部曲 (理查德 林克莱特)
-
-- [ ] 爱在黎明破晓前
-- [ ] 爱在日落黄昏时
-- [ ] 爱在午夜降临前
-
-family · 家庭三部曲 (李安)
+家庭三部曲 (李安)
 
 - [x] 推手
 - [x] 喜宴
 - [x] 饮食男女
 
+## love
+
+- [ ] 真爱至上 Love Actually
+
+- [ ] 爱情三部曲 (理查德 林克莱特)
+  - [ ] 爱在黎明破晓前
+  - [ ] 爱在日落黄昏时
+  - [ ] 爱在午夜降临前
+
+- [ ] Éric Rohmer
+    - [x] A Tale of Springtime (1990)
+    - [x] A Tale of Winter (1992)
+    - [ ] A Summer's Tale (1996)
+    - [ ] Autumn Tale (1999)
+
+## documentary
+
+- [ ] Chef's Table
+- [x] 品味咖啡 | 咖啡世界之旅行
+
 ## 2021
 
 - [x] 2021-05-20 情书
 - [x] 2021 天气之子
-- [x] 2021 品味咖啡 | 咖啡世界之旅行
 - [x] 2021-04-12 星际穿越
 - [x] 2021-04-11 醉乡民谣 
 - [x] 2021-04-03 春天的故事 Éric Rohmer
@@ -88,16 +101,6 @@ family · 家庭三部曲 (李安)
   - [x] 东京教父
 - [ ] 崩溃
 - [x] 怪兽在巴黎
-
-## director
-
-Éric Rohmer
-  - [x] A Tale of Springtime (1990)
-  - [x] A Tale of Winter (1992)
-  - [ ] A Summer's Tale (1996)
-  - [ ] Autumn Tale (1999)
-
-Woody Allen
 
 ## studio
 
