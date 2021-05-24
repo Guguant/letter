@@ -585,6 +585,11 @@ Coffee
 
 * Count the Seconds
 
+### Tom Wait
+
+* OI' 55
+* Rain Dogs - Singapore
+
 ### Travis
 
 * Big Chair
