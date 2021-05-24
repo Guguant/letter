@@ -585,7 +585,7 @@ Coffee
 
 * Count the Seconds
 
-### Tom Wait
+### Tom Waits
 
 * OI' 55
 * Rain Dogs - Singapore
