@@ -7,6 +7,7 @@
 - [cos](https://d.cosx.org/) | 统计之都
 - [curious creature](https://www.curious-creature.com/) | I share the photos I take whenever I can find time to escape the daily routine. 
 - [emeraldcy 春燕](https://www.meipian.cn/c/14966298) | 水土阳光若自适，佳木必可期！
+- [Jimmy Cai](https://jimmycai.com/)
 - [Laker Huang](http://laker.me/) | 江小湖
 - [liqi.io](https://liqi.io/) | 创造者和他们的工具
 - [Miao Yu](https://yufree.cn/) | 西奈山医学院
