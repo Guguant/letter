@@ -11,13 +11,13 @@
 - [ ] 芭芭拉少校
 - [ ] 被讨厌的勇气
 - [ ] [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by esr
+- [ ] 飘
 
 ## 2021
 
 - [x] 把自己作为方法：与项彪谈话
 - [ ] 这世界如露水般短暂 - 小林一茶
-- [ ] 一茶，猫与四季 - 小林一茶
-- [ ] 日本俳句史 - 彭恩华
+- [x] 一茶，猫与四季 - 小林一茶
 - [x] 送你一颗子弹 - 刘瑜
 - [x] 我想要不卑不亢地面对世界 - 水木丁
 - [x] 茶之书 - 冈仓天心
