@@ -9,6 +9,7 @@
 - [emeraldcy 春燕](https://www.meipian.cn/c/14966298) | 水土阳光若自适，佳木必可期！
 - [etlavita](https://etlavita.wordpress.com/) | 徒然草 流水今日，明月前身
 - [Jimmy Cai](https://jimmycai.com/)
+- [kaix](https://kaix.in/) | 定格咖啡
 - [Laker Huang](http://laker.me/) | 江小湖
 - [liqi.io](https://liqi.io/) | 创造者和他们的工具
 - [Miao Yu](https://yufree.cn/) | 西奈山医学院
