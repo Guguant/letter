@@ -2,6 +2,13 @@
 
 [TOC]
 
+## special
+
+* Vienna Teng, The Last Snowfall
+* Lulltone
+  * This Book Smells Like Rain
+  * Falling Asleep with a Book on Your Chest
+
 ## 0-9
 
 ### 9m88
@@ -572,6 +579,10 @@ Coffee
 ### The Vaccines
 
 * Want You So Bad
+
+### Thin Lizzy
+
+* Next Steps
 
 ### Thud
 
