@@ -4,6 +4,7 @@
 
 ## 2021
 
+* 2021-05-31 阿丛，生日快乐嚛！
 * 2021-05-29 Keep calm and read on. 看到一个书店的名字，「Eleven Books & Books」[https://elevenbooks.sk/en/](https://elevenbooks.sk/en/)。 楼下有一个小酒馆，名字叫 **Eleven**，老板说含义是比 Ten 多一点点。
 * 2021-05-27 Blackmore's Night 《Under a Violet Moon》
 * 2021-05-25 看“十三邀”，了解到永井荷风；看“圆桌派”体会到寻美食的乐趣；看项彪老师的访谈 - 将自己作为方法，找不到亚妮！
