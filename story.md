@@ -4,6 +4,7 @@
 
 ## 2021
 
+* 2021-05-31 香蕉鱼，不是一道菜，它源自塞林格一篇名为《逮香蕉鱼的最佳日子》的小说，“一种珍惜而美丽的虚拟生物”。
 * 2021-05-31 阿丛，生日快乐嚛！
 * 2021-05-29 Keep calm and read on. 看到一个书店的名字，「Eleven Books & Books」[https://elevenbooks.sk/en/](https://elevenbooks.sk/en/)。 楼下有一个小酒馆，名字叫 **Eleven**，老板说含义是比 Ten 多一点点。
 * 2021-05-27 Blackmore's Night 《Under a Violet Moon》
