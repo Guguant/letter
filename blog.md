@@ -12,6 +12,7 @@
 - [Jimmy Cai](https://jimmycai.com/)
 - [kaix](https://kaix.in/) | 定格咖啡
 - [Laker Huang](http://laker.me/) | 江小湖
+- [linlinxing](http://linlinxing.com/) | minimal
 - [liqi.io](https://liqi.io/) | 创造者和他们的工具
 - [Miao Yu](https://yufree.cn/) | 西奈山医学院
 - [MingRui (Ray)](https://drustz.com/) | 火箭升空之时
