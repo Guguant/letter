@@ -11,6 +11,7 @@
 - [gongm](https://gongm.in/) | 大智若鱼
 - [Jimmy Cai](https://jimmycai.com/)
 - [kaix](https://kaix.in/) | 定格咖啡
+- [kk](https://kk.org/) | My title is Senior Maverick for Wired, a magazine I helped co-found 28 years ago.
 - [Laker Huang](http://laker.me/) | 江小湖
 - [linlinxing](http://linlinxing.com/) | minimal
 - [liqi.io](https://liqi.io/) | 创造者和他们的工具
