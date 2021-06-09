@@ -13,6 +13,11 @@
 - [ ] [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by esr
 - [ ] 飘
 
+## from zz 
+
+- [ ] 一个人要像一支队伍
+- [ ] 我的情绪为何总被人左右
+
 ## 2021
 
 - [x] 把自己作为方法：与项彪谈话
