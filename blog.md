@@ -69,4 +69,5 @@
 - [OEF](https://oef.org.cn/) | 开放教育反应堆
 - [云巅论剑 -- 云原生](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzUxNjE3MTcwMg==&action=getalbum&album_id=1555781259304435715&scene=173&from_msgid=2247485160&from_itemidx=1&count=3#wechat_redirect) | aliyun
 - [staffeng stories](https://staffeng.com/stories) | Folks who have shared their stories of reaching Staff-plus engineer roles
+- [stallman](https://stallman.org/) | Richard Stallman's Personal Site
 - [tms-interview-index](https://blogcn.acacess.com/tms-interview-index) | ACACESS LAB
