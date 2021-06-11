@@ -6,6 +6,7 @@
 - [byvoid](https://www.byvoid.com/) | Beyond the Void
 - [cos](https://d.cosx.org/) | 统计之都
 - [curious creature](https://www.curious-creature.com/) | I share the photos I take whenever I can find time to escape the daily routine. 
+- [dreamsongs](https://www.dreamsongs.com/) | Richard P. Gabriel 理想之歌，诗人
 - [emeraldcy 春燕](https://www.meipian.cn/c/14966298) | 水土阳光若自适，佳木必可期！
 - [etlavita](https://etlavita.wordpress.com/) | 徒然草 流水今日，明月前身
 - [gongm](https://gongm.in/) | 大智若鱼
