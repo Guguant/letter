@@ -38,6 +38,10 @@
 - [普通读者](https://yanagibookreview.weebly.com/) | 爱读闲书
 - [云风](https://blog.codingnow.com/) | 思绪来得快去得也快，偶尔会在这里停留
 
+## design
+
+- [xinyue.de/](http://xinyue.de/) | an interaction and product designer with passion for physical computing, electronics, web, app and codes
+
 ## music
 
 - [otgoband](https://www.otgoband.cn/) | 生活旋律
