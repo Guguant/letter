@@ -2,6 +2,10 @@
 
 Everyday life.
 
+## music score
+
+[Tommy Emmanuel Fingerstyle](https://tommyemmanuel.rocks/fingerstyle/)
+
 ## tabs which want to learn
 
 - [ ] 菊次郎的夏天 -  Joe Hisaishi
