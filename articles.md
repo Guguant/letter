@@ -8,6 +8,7 @@ I think that it's a very enjoyable thing for CSer to read kinds of articles.
   - [(分手前)想和我的Geek男友做的47件事](https://www.douban.com/note/474111924/)
   - [失恋自救指南](https://yuezhu.org/失恋自救指南/)
   - [学术人生：文章千古事得失寸心知](http://www.stat.ucla.edu/~sczhu/Blog_articles/学术人生：文章千古事得失寸心知.pdf) by 朱松纯，2017-02-09
+  - [十八岁的回想](https://mp.weixin.qq.com/s/-RE4nZV4QVSXwfmlRLgS8g) by 德戈金夫, 2019-06-07
 
 * education
   - [【论衡】支教，先谈教育，再谈公益 2015-05-19 北大青年](http://mp.weixin.qq.com/s/qBPs5CA204uSxFk4Rp6_aw)
