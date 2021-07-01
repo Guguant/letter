@@ -12,6 +12,7 @@
 - [ ] 被讨厌的勇气
 - [ ] [The Cathedral and the Bazaar](http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/index.html) by esr
 - [ ] 飘
+- [ ] 寄藤文平的創意畫法
 
 ## from zz 
 
@@ -20,6 +21,8 @@
 
 ## 2021
 
+- [x] 日日100 - 松浦弥太郎
+- [x] 李银河说爱情 - 李银河
 - [x] 重于天堂 柯本传
 - [x] 莎士比亚书店 - Sylvia Beach
 - [x] 流动的盛宴 - 海明威
