@@ -40,7 +40,8 @@ like and seen.
 
 - [ ] Chef's Table
 - [x] 品味咖啡 | 咖啡世界之旅行
-- [ ] 72 HOURS, 72時間
+- [ ] 72 HOURS, 72時間 by NHK
+- [ ] 行家本色 by NHK
 - [ ] 喜剧开场 (コントが始まる)
 
 ## 2021
